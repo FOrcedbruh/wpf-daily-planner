@@ -13,3 +13,6 @@ C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.
 C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CoreCompileInputs.cache
 C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.exe
 C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.pdb
+C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CopyComplete
