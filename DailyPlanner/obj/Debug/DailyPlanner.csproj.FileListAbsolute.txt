@@ -16,3 +16,5 @@ C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.
 C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\DailyPlanner.csproj.CopyComplete
+C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\LoginWindow.g.cs
+C:\Users\Илья\source\repos\DailyPlanner\DailyPlanner\obj\Debug\LoginWindow.baml
